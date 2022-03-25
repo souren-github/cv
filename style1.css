@@ -1,0 +1,134 @@
+#mainNavbar {
+    padding-left: 50px;
+    padding-top: 20px; 
+}
+
+.navbar-dark .navbar-brand {
+    font-family: 'Source Serif Pro', serif
+}
+
+.navbar-nav .nav-link {
+    font-family: 'Source Serif Pro', serif
+}
+.navbar.scrolled {
+    background: rgb(34, 31, 31);
+    transition: background 500ms;
+}
+
+nav
+{
+	background-color:#231858;
+	
+}
+nav > a
+{color: #867DB0;}
+
+.nav-link {color: #867DB0 !important;}
+
+
+header
+{
+	background-color:#231858;
+	height:95vh;
+
+}
+
+
+
+
+
+.profile
+{
+	width:200px;
+	height:200px;
+	border-radius:50%;
+	background-image:url(profile.png); background-position:center;
+}
+
+.info-box
+{
+	background-color:#867DB0;
+}
+
+
+ul
+{list-style:none;}
+
+strong
+{letter-spacing: 3px; font-size:16px;}
+
+
+.zone
+{
+	cursor:pointer;
+	color:#fff;
+	font-size:2em;
+	border:1px solid #867DB0;
+	transition: all 0.3s linear;
+}
+
+.grid-wrapper
+{
+	display:grid;
+	grid-gap:20px;
+	grid-template-columns:repeat(auto-fill,minmax(350px, 1fr));
+}
+
+.box > img
+{
+	width:100%;
+	height:100%;
+}
+
+.box
+{
+	background-color: #867DB0;
+	margin:30px;
+	padding:10px;
+	border-radius:5px;
+}
+
+.box:hover
+{box-shadow:rgba(255,255,255,0.8) 0px 5px 15px;}
+
+footer
+{
+	background-color:#867DB0;
+	color:#231858;
+}
+
+.copyright
+{
+	background-color:#231858;
+	color:#867DB0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
