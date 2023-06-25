@@ -76,7 +76,8 @@ strong
 
 .box > img
 {
-	
+	width:350px !impoprtant;
+	height:300px !impoprtant;
 }
 
 .box
@@ -85,7 +86,7 @@ strong
 	margin:30px;
 	padding:10px;
 	border-radius:5px;
-	width:350px !impoprtant;
+	
 }
 
 .box:hover
