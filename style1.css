@@ -76,8 +76,9 @@ strong
 
 .box > img
 {
-	width:350px !impoprtant;
-	height:300px !impoprtant;
+	
+	width:100%;
+	height:100%;
 }
 
 .box
